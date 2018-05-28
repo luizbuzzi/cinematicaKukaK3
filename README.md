@@ -8,4 +8,8 @@ cinematicadiretakuka permite a obtmnção da posição do robôbo pela cinemáti
 
 cinematicainversa implementa os parametros de cinematica inversa do robo.
 
+a função exemplo implementa alguns modelos de como utiliza.
+
+trabalho desenvolvido em MATLAB.
+
 todas as funções são alimentadas com angulos em graus.
